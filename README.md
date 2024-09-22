@@ -10,8 +10,6 @@
 
 Let's collaborate and create some amazing software together! 💻✨
 
-![](https://leetcard.jacoblin.cool/seleza1?ext=heatmap)
-
 ### Contacts:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-383838?style=plastic&logo=telegram&logoColor=A084CA)](https://t.me/NsSerezha)
@@ -28,4 +26,6 @@ Let's collaborate and create some amazing software together! 💻✨
 - 🏛 **Architecture**: MVC, MVVM, MVP, VIPER 
 - ⚡ **Reactive programming**: [Combine](https://developer.apple.com/documentation/combine)
 - 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [URLSession](https://developer.apple.com/documentation/foundation/urlsession)
-- ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [R.swift](https://github.com/mac-cain13/R.swift), 
+- ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [R.swift](https://github.com/mac-cain13/R.swift)
+
+![](https://leetcard.jacoblin.cool/seleza1?ext=heatmap)

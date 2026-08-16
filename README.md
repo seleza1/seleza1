@@ -1,4 +1,4 @@
-- 4+ years building iOS apps across medtech, social & marketplace domains
+- 5+ years building iOS apps across medtech, social & marketplace domains
 - Strong in real-time communication: WebRTC, VoIP, E2E encryption
 - Passionate about low-level stuff: Metal, OpenSSL, concurrency
 

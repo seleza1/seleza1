@@ -12,13 +12,13 @@
 ### Tech Stack
 - **Architecture**: MVC, MVP, MVVM, VIPER
 - **UI Framework**: UIKit, SwiftUI
-- **Concurrency**: Operation, GCD, Structured Concurrency (async/await, Task, Actors)
-- **Storage**: [Realm](https://github.com/realm/realm-swift), SQLite, [GRDB](https://github.com/groue/GRDB.swift)
+- **Concurrency**: Operation, GCD, Structured Concurrency
+- **Storage**: [Realm](https://github.com/realm/realm-swift), SQLite, [GRDB](https://github.com/groue/GRDB.swift), CoreData, [SQLCipher](https://github.com/sqlcipher/sqlcipher)
 - **Reactive programming**: [Combine](https://developer.apple.com/documentation/combine), [PromiseKit](https://github.com/mxcl/PromiseKit), [RxSwift](https://github.com/ReactiveX/RxSwift)
 - **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [URLSession](https://developer.apple.com/documentation/foundation/urlsession), WebSockets, [Starscream](https://github.com/daltoniam/Starscream)
 - **VoIP / RTC**: [WebRTC](https://webrtc.org/), CallKit, PushKit
-- **Push**: NSE (Notification Service Extension)
-- **Security**: OpenSSL
+- **Push**: NSE (Notification Service Extension), APNs
+- **Security**: End-to-End Encryption, CryptoKit, [SQLCipher](https://github.com/sqlcipher/sqlcipher), SSL Pinning, OpenSSL
 - ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [R.swift](https://github.com/mac-cain13/R.swift), [Swinject](https://github.com/Swinject/Swinject), [SwiftGen](https://github.com/SwiftGen/SwiftGen)
 - **Dependency managers**: CocoaPods, SPM
 - **CI/CD**: Fastlane
